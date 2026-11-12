@@ -1,0 +1,4 @@
+Welcome to the Lab 3 app!
+Greeting: Hello, world
+Version: 1.0
+Status: stable
