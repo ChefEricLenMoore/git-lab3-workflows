@@ -1,4 +1,6 @@
 Welcome to the Lab 3 app!
-Greeting: Hello, team!
+Greeting: Hello, {name}! Welcome to the team!
 Version: 1.0
 Status: stable
+Feature: personalized greeting coming soon
+Language: English
