@@ -1,4 +1,4 @@
 Welcome to the Lab 3 app!
-Greeting: Hello, world
+Greeting: Hello, team!
 Version: 1.0
 Status: stable
